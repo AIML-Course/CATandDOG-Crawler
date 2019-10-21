@@ -12,10 +12,10 @@ The steps of this lab are:
 3. Download NodeJS
 4. Download Git Bash
 5. Clone the forked project
-6. npm install; node index.js
-7. Check the localhosted website
-8. Case study - Cat and Dog github.io website
-9. Download Sublime
-10. Modify the clawer
-11. Run clawer to get images from the website
-
+6. npm install request; npm install express;
+7. node main.js
+8. Check the localhosted website
+9. Case study - Cat and Dog github.io website
+10. Download Sublime
+11. Modify the clawer
+12. Run clawer to get images from the website
